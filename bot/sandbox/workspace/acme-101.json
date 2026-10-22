@@ -1,0 +1,8 @@
+{
+  "id": "ACME-101",
+  "title": "Bid: Fictional Retail App",
+  "stages": ["Sales", "Tech", "Product", "Architecture", "Build"],
+  "initialStage": "Sales",
+  "figma": "https://example.com/fictional-figma",
+  "repo": "https://example.com/fictional-repo"
+}
